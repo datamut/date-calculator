@@ -1,0 +1,5 @@
+-e ../../scidate
+fastapi==0.66.0
+pydantic==1.8.2
+starlette==0.14.2
+uvicorn==0.14.0
