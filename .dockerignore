@@ -1,14 +1,12 @@
 .idea
 .vscode
 .DS_Store
+.git/
 
-venv
-
+venv/
 .pytest_cache
 *.pyc
 __pycache__/
-
-.coverage
 
 dist/
 *.egg-info
