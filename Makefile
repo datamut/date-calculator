@@ -15,3 +15,4 @@ run_shell:
 
 test_scidate:
 	DOCKER_BUILDKIT=0 docker build -t scidate_test -f test.scidate.Dockerfile .
+	docker run -it scidate_test
