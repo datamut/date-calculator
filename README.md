@@ -72,7 +72,7 @@ python -m unittest
 
 ### Test the API version of the calculator
 
-Similar to the command-line tool, you can go into the `examples/shell` directory, and you can find a `requirements_test.txt` file. Execute the following command to run the unit tests:
+Similar to the command-line tool, you can go into the `examples/api` directory, and you can find a `requirements_test.txt` file. Execute the following command to run the unit tests:
 
 ```shell
 python -m venv venv
