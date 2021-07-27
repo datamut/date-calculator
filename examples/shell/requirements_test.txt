@@ -1,2 +1,2 @@
 -r requirements.txt
-mock==mock
+mock==4.0.3
