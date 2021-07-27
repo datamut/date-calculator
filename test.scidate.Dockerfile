@@ -18,4 +18,4 @@ WORKDIR /code/scidate
 
 RUN pip install -r requirements_test.txt
 
-CMD ["pytest", "scidate/tests", "--cov=scidate"]
+CMD ["python", "-m", "pytest", "scidate/tests", "--cov=scidate"]
